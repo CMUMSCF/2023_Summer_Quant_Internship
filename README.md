@@ -1,5 +1,5 @@
 # 2023_Summer_Quant_Internship
-2023 Summer Quant Internships
+2023 Summer Quant Internships, collected by the [MSCF](https://www.cmu.edu/mscf/) program at CMU.
 
 Note: Positions with late deadlines usually hire on a rolling basis.
 
