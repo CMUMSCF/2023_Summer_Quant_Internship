@@ -4,7 +4,7 @@
 Note: Positions with late deadlines usually hire on a rolling basis.
 
 | Company      | Company Type | Title | Location | Deadline | Accepts OPT/CPT? (Default Yes)  
-|:-----------:|:----------:|:-------------:|:---------:|:---------:|:---------:|
+|:-----------:|:----------:|:-------------:|:---:|:--------------:|:---------:|
 | Aspen Capital  | Private Equity | [Quantitative Financial Analyst Intern](https://app.joinhandshake.com/stu/jobs/7344292?ref=home-unit-item) | NYC | March 31, 2023   |  |
 | Balyasny Asset Management  | Hedge Fund/Asset Management | [Intern, Quantitative Developer](https://app.joinhandshake.com/stu/jobs/7215407?ref=preview-header-click&search_id=acde6cad-1a2b-46f3-b936-40fa091f4809) | NYC | August 25, 2023   |  |
 | VanEck  | Asset Management | [Quantitative Researcher Summer Intern](https://app.joinhandshake.com/stu/jobs/7191821?ref=preview-header-click&search_id=acde6cad-1a2b-46f3-b936-40fa091f4809) | NYC | March 31, 2023   |  |
@@ -34,7 +34,7 @@ Note: Positions with late deadlines usually hire on a rolling basis.
 | New York Life Insurance Company | Insurance | [NYL Quantitative Analyst Summer Internship](https://app.joinhandshake.com/stu/jobs/7059581?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | NYC | March 4, 2023  | No |
 | Bank of America | Investment Bank | [Global Quantitative Research Summer Associate Program - 2023](https://app.joinhandshake.com/stu/jobs/6652350?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | NYC | October 15, 2023   |  |
 | TD Bank | Investment Bank | [2023 Junior Quantitative Equity Analyst Summer Intern](https://app.joinhandshake.com/stu/jobs/7377928?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | NYC | February 28, 2023    |  |
-| Northwestern Mutual - Corporate Office | Insurance | [Quantitative Finance MS/Masters Internship, Summer 2023](https://app.joinhandshake.com/stu/jobs/6950748?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | Wisconsin | Northwestern Mutual - Corporate Office    | No |
-| Envestnet | FinTech | [QRG Capital Management Intern](https://app.joinhandshake.com/stu/jobs/7265713?ref=preview-header-click&search_id=24a83664-b7c4-4200-b6d8-0b5a0dcb38b9) | Pennsylvania | Northwestern Mutual - Corporate Office    |  |
+| Northwestern Mutual - Corporate Office | Insurance | [Quantitative Finance MS/Masters Internship, Summer 2023](https://app.joinhandshake.com/stu/jobs/6950748?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | Wisconsin |     January 31, 2023 | No |
+| Envestnet | FinTech | [QRG Capital Management Intern](https://app.joinhandshake.com/stu/jobs/7265713?ref=preview-header-click&search_id=24a83664-b7c4-4200-b6d8-0b5a0dcb38b9) | Pennsylvania |  January 31, 2023  |  |
 
 
