@@ -3,7 +3,7 @@
 
 Note: Positions with late deadlines usually hire on a rolling basis.
 
-| Company      | Company Type | Job Type/Title | Location | Deadline | Accepts OPT/CPT? (Default Yes)  
+| Company      | Company Type | Job Type (Contains Link to the Posting) | Location | Deadline | Accepts OPT/CPT? (Default Yes)  
 |:-----------:|:----------:|:-------------:|:---:|:--------------:|:---------:|
 | Aspen Capital  | Private Equity | [Quantitative Financial Analyst](https://app.joinhandshake.com/stu/jobs/7344292?ref=home-unit-item) | NYC | March 31, 2023   |  |
 | Balyasny Asset Management  | Hedge Fund/Asset Management | [Quantitative Developer](https://app.joinhandshake.com/stu/jobs/7215407?ref=preview-header-click&search_id=acde6cad-1a2b-46f3-b936-40fa091f4809) | NYC | August 25, 2023   |  |
