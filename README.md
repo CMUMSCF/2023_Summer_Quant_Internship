@@ -32,5 +32,9 @@ Note: Positions with late deadlines usually hire on a rolling basis.
 | Greenwich Commodities LLC | Prop Trading | [Quantitative Analyst Intern](https://app.joinhandshake.com/stu/jobs/7375791?ref=preview-header-click&search_id=59156d0c-c3c9-4407-ae6e-b5c08c4e7945) | Michigan | March 31, 2023  |  |
 | SIG | Prop Trading | [Quantitative Research Intern – Graduate Hire](https://app.joinhandshake.com/stu/postings?page=3&per_page=25&sort_direction=desc&sort_column=default&query=quant) | Pennsylvania | April 1, 2023  |  |
 | New York Life Insurance Company | Insurance | [NYL Quantitative Analyst Summer Internship](https://app.joinhandshake.com/stu/jobs/7059581?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | NYC | March 4, 2023  | No |
-| Bank of America | Investment Bank | [Global Quantitative Research Summer Associate Program - 2023](https://app.joinhandshake.com/stu/jobs/6652350?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | NYC | October 15, 2023   | No |
+| Bank of America | Investment Bank | [Global Quantitative Research Summer Associate Program - 2023](https://app.joinhandshake.com/stu/jobs/6652350?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | NYC | October 15, 2023   |  |
+| TD Bank | Investment Bank | [2023 Junior Quantitative Equity Analyst Summer Intern](https://app.joinhandshake.com/stu/jobs/7377928?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | NYC | February 28, 2023    |  |
+| Northwestern Mutual - Corporate Office | Insurance | [Quantitative Finance MS/Masters Internship, Summer 2023](https://app.joinhandshake.com/stu/jobs/6950748?ref=preview-header-click&search_id=e3ff252c-3be9-40c9-8c99-82e31c15d6ff) | Wisconsin | Northwestern Mutual - Corporate Office    | No |
+| Envestnet | FinTech | [QRG Capital Management Intern](https://app.joinhandshake.com/stu/jobs/7265713?ref=preview-header-click&search_id=24a83664-b7c4-4200-b6d8-0b5a0dcb38b9) | Pennsylvania | Northwestern Mutual - Corporate Office    |  |
+
 
